@@ -1,25 +1,26 @@
 How many years of Web development experience do you have?
-
+around 1 year
 
 How many years of JavaScript experience do you have?
-
+2-3 months
 
 How many years of Ruby experience do you have?
-
+6 months. But worked on many projects.
 
 How many years of Rails development experience do you have?
-
+6 months. But worked on projects.
 
 What are your opinions on Agile software development?
-
+Agile Software Development methodology is the best one to be implemented, as it can accomadate any change and allows continueous input from client. Also there is better communication between developers which speeds up the development process by knowledge sharing.
 
 TDD or BDD?
-
+I personally prefer BDD.
 
 What are you looking for in a job?
-
+I want a job which gives me chance to learn and evlove. I also want a job in my intrest domain so that it is fun to do.
 
 Are you legal to work in the US?
-
+yes.
 
 When can you start?
+10th May 2016.
