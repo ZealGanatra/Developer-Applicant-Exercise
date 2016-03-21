@@ -1,0 +1,20 @@
+Hi,
+
+I am Zeal Ganatra, currently enrolled for the graduate program at NC State in Computer Science. I would request you to consider me for "Developer Intern" position at Hedgeye. 
+
+I have had professional experience from previous internship at Zestride, where I along with a team worked on front end of official website of Algonations. I also worked on front end development of admin panel of events - booking web-portal, and online ticket booking web-portal. I learned and used Bootstrap, JQuery, HTML, and CSS for the development of these projects. I have also developed an desktop software for Nandan Pharmaceuticals, which automated their data entry and stock keeping. This was done using Visual Studio Professional and C# language.
+
+The courses which I have taken include Algorithms, Artificial Intelligence, Algorithms for Data guided Business Intelligence, Software Engineering, User Experience and Object Oriented Design and Development. I am also working as IT Consultant for CALS Academic and Administrative Support at NC State University.
+
+I have worked on many of the academic and hobby projects, like Music Recommender System, Twitter Sentiment Analysis System, Railway Reservation System, Library Management System, Engineering Admission System etc. using technologies like Java,  Python, R, Spark, Ruby on Rails, HTML and CSS. I have also worked on an Open Source project, Expertiza, which is an assessment management system for universities and instructors, which is currently being used in NC State University. I also have hands - on experience in C++.
+
+Apart from my technical abilities, I am a team player. I am good at communicating with people and am not afraid of asking questions. Owing to my this ability I am currently the Public Relations Head of "Maitri"- Graduate Student Association at North Carolina State University.
+
+I strongly believe that my previous experience, skills and coursework will enable me to fulfill my duties effectively. I look forward to work at Hedgeye as an intern. I would request you for an opportunity through an interview, to demonstrate how I can be a part of the progress of the company.
+
+LinkedIn Profile: https://www.linkedin.com/in/zealdipeshganatra
+
+Thanks & Regards,
+Zeal Dipesh Ganatra
+Graduate Student, Computer Science
+NC State University, Raleigh.
